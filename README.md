@@ -48,3 +48,20 @@ The dataset includes health-related features such as glucose levels, blood press
 ├── notebooks/              # Google Colab notebooks
 ├── results/                # Plots and evaluation results
 ├── README.md               # Project documentation (this file)
+
+
+## 🧑‍💻 How to Use  
+
+1. **Clone the Repository**  
+
+   ```bash
+   git clone https://github.com/DogukanErzurum/Data-Mining-Midterm-Projects.git  
+   cd Data-Mining-Midterm-Projects
+
+Run the Notebook
+
+Follow the steps in the notebook to preprocess the data, train the models, and evaluate their performance.
+📝 Results
+The analysis compares the performance of different regression models and explores how regularization (Ridge/Lasso) and model complexity (Random Forest) affect results.
+Key insights and visualizations are included in the notebook.
+
