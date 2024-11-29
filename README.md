@@ -124,20 +124,3 @@ This repository contains the implementation and analysis of three machine learni
 ├── README.md               # Project documentation (this file)
 
 ---
-
-## 📝 Results
-
-### Problem 1: Decision Tree Classification
-
-- Decision Tree achieved an accuracy of **XX%**, precision of **YY%**, and recall of **ZZ%**.
-- Compared to **Random Forest**, the Decision Tree performed **better/worse** in terms of F1 Score.
-
-### Problem 2: K-Means Clustering
-
-- The optimal number of clusters was determined to be **k=X** based on the Elbow Method and Silhouette Score.
-- Clustering revealed distinct groups with meaningful patterns.
-
-### Problem 3: Linear Regression Analysis
-
-- Linear Regression achieved an MSE of **XX** and R² Score of **YY**.
-- Compared to **Ridge Regression** or **Random Forest Regression**, **Model A** outperformed due to better handling of feature interactions or regularization.
