@@ -109,7 +109,7 @@ This repository contains the implementation and analysis of three machine learni
    ```bash
    git clone https://github.com/YourUsername/ML-Analysis-Projects.git
    cd ML-Analysis-Projects
-
+   
 2. **Run the Notebooks**
    - Follow the instructions in each notebook for preprocessing, model training, and evaluation.
 
@@ -124,8 +124,6 @@ This repository contains the implementation and analysis of three machine learni
 ├── README.md               # Project documentation (this file)
 
 ---
-
-
 
 ## 📝 Results
 
